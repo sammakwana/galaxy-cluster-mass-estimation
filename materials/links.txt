@@ -1,0 +1,5 @@
+# Learning Materials and References
+
+- Astropy Docs: https://docs.astropy.org/
+- Binney & Tremaine, "Galactic Dynamics"
+- NED: https://ned.ipac.caltech.edu/
